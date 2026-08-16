@@ -276,11 +276,6 @@ bank-management-sql-project/
 │   ├── 04_loan_analysis.sql
 │   ├── 05_merchant_analysis.sql
 │   └── 06_advanced_analysis.sql
-│
-├── python/
-│   └── import_banking_data.py
-│
-└── screenshots/
 ```
 
 ---
